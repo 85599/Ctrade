@@ -45,4 +45,4 @@ yarn && yarn dist -w
 - Please get in touch if you want to contribute to this project or any other of my projects. 
 
 # License
-This project is open sourced under the GNU GPL v3 licence
+This project is open sourced under the MIT licence
